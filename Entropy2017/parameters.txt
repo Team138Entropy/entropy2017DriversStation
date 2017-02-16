@@ -1,0 +1,17 @@
+lowHue  =  52
+highHue  =  69
+lowSat  =  0
+highSat  =   255
+lowVal  =  11
+highVal  =  255
+DilateSize  =  4.0
+DilateKernel  = 2 
+CROSS_HAIR_X  =  200
+CROSS_HAIR_Y  =  100
+CROSS_HAIR_SIZE  =  30
+MilliSecsBetweenPics  =  1000
+ErodeSize  =  4.0
+AspectMin  =  0.5
+AspectMax  =  5.0
+AreaMin  =  1000
+AreaMax  =   5000

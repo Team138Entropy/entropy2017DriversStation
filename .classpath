@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="OverlayRectanglePF.java" kind="src" path="Entropy2017/src"/>
+	<classpathentry kind="lib" path="Entropy2017/SteamworksCamera138.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/opencv/build/java/opencv-320.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Team138/wpilib/tools/SmartDashboard.jar"/>
+	<classpathentry kind="output" path="Entropy2017/bin"/>
+</classpath>
